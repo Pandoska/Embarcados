@@ -1,0 +1,40 @@
+Respostas
+Aula 3 - Prática
+
+1) Código criado com sucesso.
+
+2) Código criado com sucesso usando as funções scanf e gets.
+
+3)
+a) Com a função scanf, o programa estava pegando apenas o primeiro nome. Com a função gets o programa pega mais de um nome, até que seja dado enter, claro que dentro do tamanho da variável.
+
+b)Com a função gets, o programa mostra os nomes com as aspas de forma esperada.Com scanf o programa mostra até o espaço apenas.
+
+c)O programa fica com o nome previamente digitado.
+
+d)Com a função scanf o programa mostra apenas o primeiro nome. Já com a função gets, todos os nomes escritos depois de echo e antes do pipe são mostrados pelo programa.
+
+e)Assim como nos outros programas, a função scanf não está lendo todos os nomes. Porém, usando echo a saída não tem aspas.
+
+f)O programa leu o dado do arquivo. Com a função gets veio a frase por completo. Com a função scanf não.
+
+4)O programa pode acessar o vetor de argumentos. Logo, para podermos mostar nome que queremos, devemos escolher essa posição. De tal forma, podemos contar quantos argumentos temos e ai podemos ler todos os nomes em questão.
+
+5)
+a)O programa mostra apenas o primeiro nome.
+
+b)O programa mostra ambos os nomes pois salva eles no mesmo argumento.
+
+c)Aparece NULL.
+
+d)Aparece NULL.
+
+e)Aparece NULL.
+
+f)Aparece NULL.
+
+6)Programa criado com sucesso.
+
+7)Programa criado com sucesso usando for.
+
+8)
