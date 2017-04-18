@@ -1,0 +1,13 @@
+1) Para criar o arquivo podemos digitar nano Ola_mundo.txt , em 
+seguida escrever o conteúdo Ola mundo cruel!. Após isso usamos
+ctrl+x para sair, Y para salvar e ENTER para confimar o nome do
+arquivo. Depois, no terminal digitando cat Ola_mundo.txt podemos 
+ver o que está escrito no arquivo.
+
+2) sudo ls -a /root
+
+3) sudo ls -l /root
+
+4) sudo ls -d /root
+
+5)

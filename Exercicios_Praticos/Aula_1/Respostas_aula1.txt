@@ -1,0 +1,14 @@
+1. Sistemas embarcados são soluções eletrônicas que possuem um processador e um sistema operacional executando as diversas tarefas. Diferem de sistemas microprocessados justamente neste quesito do sistema operacional. Possum uma maior potência computacional.
+
+2. Sistemas microprocessados são soluções em eletrônica que possuem um microprocessador. Este é responsável por executar as diversas do sistema, porém não conta com as facilidades que um sistema operacional possui.
+
+3.
+a) Computadores de bordo em veículos. Este sistema embarcado controla as centrais de entretenimento, bem como informações úteis ao motorista e a ativação dos diversos sistemas no carro. Pode ser utilizado um Sistema operacional de tempo real.
+b) IoT hoje em dia se mostra como o próximo grande passo na indústria eletrônica de consumo, tornando "smart" objetos do cotidiano, como geladeiras, tvs, smart houses, etc. Possibilita a interconectividade entre os diversos equipamentos através da web.
+c) Verificação de qualidade e segurança de linhas de produção.
+
+4. A arquitetura pode se referir tanto ao hardware quanto ao software. Em hardware temos as diversas arquiteturas de construção de placas e de seus processadores como arm entre outros.
+
+5. Raspberry pi possui um custo reduzido além de uma boa difusão, tanto na aquisição de placas quanto no suporte da comunidade na web. 
+
+

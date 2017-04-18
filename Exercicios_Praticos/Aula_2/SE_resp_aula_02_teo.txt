@@ -1,0 +1,44 @@
+Helbert Júnior 14/0142851
+
+1)Linux recebeu esse nome pois foi inicialmente desenvolvido por Linus Torvalds. Ele se baseou no sistema UNIX para criar a sua própria versão conhecida como LINUX.
+
+2)São processos que executam em segundo plano, longe do controle direto do usuário, que podem controlar outros serviçoes ou processos.
+
+3) Shell é um programa que permite ao usuário iteragir com o
+sistema operacional através de comandos digitados do
+teclado. No DOS o shell era o command.com, que permitia
+executar alguns comandos como: cd, dir, ...
+O shell mais famoso de Linux é o Bash, pois o mesmo
+oferece vários recursos que facilitam a vida do usuário. O
+mais básico é o sh. Em todos estes é possível criar scripts
+(mini-programas) que executam sequências de comandos,
+como se estivessem sidos digitados pelo usuário.
+Lembremos que para um usuário normal, o shell aparece com
+o símbolo $ . Já para o root, o símbolo é o # .
+
+4)Como super-usuário você pode alterar todos os arquivos do sistema, o que reduz a segurança do mesmo contra alterações indevidas em partes críticas do sistema. Sem essa segurança, outros processos executando em conjunto podem danificar ou obter informações sigilosas de determinados processos.
+
+5)No terminal a tecla TAB completa os comandos com base no contexto.
+
+6)As setas para cima e para baixo alternam entre os comandos previamente utilizados.
+
+7)a)Podemos utilizar man ou --help;
+  b)ls "pasta" serve para mostar os arquivos dentro de determinada pasta;
+  c)o comando pwd mostra o caminho da pasta de trabalho atual;
+  d)o comando cd troca o diretório atual. cd .. retorna para a pasta anterior;
+  e)o comando mkdir cria um diretório. 
+  f)para apagar arquivos utilizamos rm. Para apagar definitivamente usamos shred.
+  g)para apagar a pasta temos que utilizar a opção recursiva da função rm, de modo a apagar o seu conteudo e seus diretórios, ficando o comando rm -r "pasta".
+  h)podemos utilizar o comando cp /diretorio/arquivo /diretorio-destino
+  i)para copiar pastas podemos utilizar a mesma lógica do remove, usando a função recursiva, cp -r.
+  j)para mover um arquivo podemos usar o comando mv arquivo destino.
+  k)para mover a pasta e todo o seu conteúdo podemos utilizar o comando mv "pasta"/* "destino".
+  l)podemos utilizar o comando mv para renomear pastas.
+  m)nano arquivo ou cat arquivo.
+  n)
+  o)o comando clear limpa a tela do terminal.
+  p)
+  q)
+  r)
+  s)
+  t)
