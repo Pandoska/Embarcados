@@ -1,0 +1,14 @@
+1)
+
+2)Fork vem de desvio, de forquilha, no sentido de que vc tem um acesso a partir de um galho principal. Dessa mesma forma, o comando fork cria um outro processo a partir de um processo proincipal, ou pai.
+
+3)
+a) System. A função system retorna em sua saída o status do comando shell . Se o shell não puder ser executado, system retorna 127. Se for outro erro, retorna -1. System é simples mas da brechas a falha de execução pois depende muito do sistema. 
+b) Com FORK cria-se um novo processo e com exec executamos um novo programa em cima daquele processo. 
+
+4)Sim, mas o processo pai ficará ocupado durante a execução do mesmo.
+
+5)
+a) as chamadas de funções teminadas em p permitem que o nome ou procura do programa esteja no current path. Função que não contem p devem ter o caminho completo do programa. 
+b) as funções que tenham v em seus nomes permitem que a lista de argumento seja nula. Se tiver l, aceitam em sua lista de argumentos a utilização de mecanismos var args em linguagem C.
+c) A letra e permitem um argumento adicional.
