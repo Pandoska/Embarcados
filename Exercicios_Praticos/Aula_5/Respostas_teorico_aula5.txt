@@ -1,0 +1,22 @@
+1)
+a) fopen e fclose;
+b) fprintf;
+c) fscanf;
+d) fseek, frewind;
+e) stdio.h;
+
+2) Norma posix é um conjunto de funções de como se trabalhar com arquivos de um ponto de vista de baixo nível;
+
+3)
+a)open(); close(); int open ( const char* path, int oflag,...)
+b)write(); ssize_t write (int fildes, const void *buf, size_t nbyte);
+c)read(); ssize_t read (int fildes, const void *buf, size_t nbyte);
+d)lseek();off_t lseek(int fd, off_t offset, int whence);
+e)#include <stdio.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <stdlib.h>
+
+
+
+

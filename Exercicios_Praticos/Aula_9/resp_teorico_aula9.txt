@@ -1,0 +1,9 @@
+1)
+a) Fork permite criar outros processos. Cada processo tem seu espaço de memória protegido. A comunicação é feita por IPC. Cada filho executa sua própria tarefa. Executam simultaneamente.
+b)Threads compartilham o mesmo espaço de memória. A comunicação é mais simples. Risco de corrupção de dados.
+
+2)
+a)Duas threads coexistindo juntas.
+b)Duas threads existindo separadamente devido a separação do comando JOIN.
+
+

@@ -1,0 +1,14 @@
+1)
+a) Apenas 1 pipe.
+b) Dois pipes. Pois a chamada da criação do pipe está após o fork, logo ambos processo pai e processo filho executarão a referida chamada.
+
+2)
+SIGHUP. Corte. Sinal emitido a um terminal quando este se desconecta.
+SIGQUIT. Abandono. Sinal emitido aos processos do terminal quando a tecla de abandono (ctrl+d) é acionada.
+SIGILL. Emitido quando uma instrução ilegal é detectada.
+SIGIOT. Problemas de instrução de E/S. Emitido em problemas de hardware.
+SIGKILL. Termina processos.
+SIGTERM. Termina processos de forma mais humana.
+SIGPIPE. Escrita sobre um pipe não aberto em leitura.
+
+
